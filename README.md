@@ -36,7 +36,8 @@ This repository places a strong emphasis on memory management and pointers, crit
 Initialize a new list with a given head and number.
 
 ````c
-void new_list(dub_node *head, int num);
+void new_list(dub_node *head, int num);```
+
 ### New List
 Initialize a new list with a given head and number.
 ```c
