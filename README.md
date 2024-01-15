@@ -32,8 +32,10 @@ Before using this C program, ensure that you have the following:
 - **C**
 - **Visual Studio Code**
 
+[<img  alt="C Logo Icon" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />][C]
 [<img alt="Visual Code Icon" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscode]
 
+[C]: https://learn.microsoft.com/en-us/cpp/c-language/
 [vscode]: https://code.visualstudio.com/
 
 ## Environments Used
