@@ -62,14 +62,6 @@ Initialize a new list with a given head and number.
 void new_list(dub_node *head, int num);
 ```
 
-### New List
-
-Initialize a new list with a given head and number.
-
-```c
-void new_list(dub_node *head, int num);
-```
-
 ### Add at End
 
 Add a new node with a given number at the end of the list.
@@ -152,6 +144,19 @@ void print_list(dub_node *head);
 
 The main function in the provided C code demonstrates the usage of these doubly linked list operations.
 
+ <div align="center">
+<br/>
+<img src="https://github.com/infinity-set/ActiveDirectory_UserCreation_Script/assets/142350896/a30d8689-a617-46bf-a9a6-21354b02b1e1" height="100%" width="100%" alt="Main function code displayed in C"/>
+<br />   
+ </div>
+
+ <div align="center">
+<br/>
+<img src="https://github.com/infinity-set/ActiveDirectory_UserCreation_Script/assets/142350896/6bc2c51e-c982-4af4-b31b-b1ccaa914c62" height="100%" width="100%" alt="Output of the execution displayed."/>
+<br />   
+ </div>
+
+<br />   
 Feel free to explore and modify the code based on your requirements!
 
 #
