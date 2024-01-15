@@ -130,3 +130,8 @@ void print_list(dub_node *head);
 The main function in the provided C code demonstrates the usage of these doubly linked list operations.
 
 Feel free to explore and modify the code based on your requirements!
+
+#
+
+⬅️ **[Home](https://github.com/infinity-set)**
+
