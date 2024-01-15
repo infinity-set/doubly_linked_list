@@ -35,67 +35,98 @@ This repository places a strong emphasis on memory management and pointers, crit
 
 Initialize a new list with a given head and number.
 
-````c
-void new_list(dub_node *head, int num);```
-
-### New List
-Initialize a new list with a given head and number.
 ```c
 void new_list(dub_node *head, int num);
+```
+
+### New List
+
+Initialize a new list with a given head and number.
+
+```c
+void new_list(dub_node *head, int num);
+```
 
 ### Add at End
+
 Add a new node with a given number at the end of the list.
+
 ```c
 void add_at_end(dub_node *head, int num);
+```
 
 ### Add at Beginning
+
 Add a new node with a given number at the beginning of the list.
+
 ```c
 dub_node *add_at_beginning(dub_node *head, int num);
+```
 
 ### Insert at Index
+
 Insert a new node with a given number at a specified index in the list.
+
 ```c
 dub_node *insert_at_index(dub_node *head, int index, int num);
+```
 
 ## Deleting Nodes
 
 ### Delete at Beginning
+
 Delete the first node in the list.
+
 ```c
 dub_node *delete_at_beginning(dub_node *head);
+```
 
 ### Delete at End
+
 Delete the last node in the list.
+
 ```c
 void delete_at_end(dub_node *head);
+```
 
 ### Delete at Index
+
 Delete the node at a specified index in the list.
+
 ```c
 dub_node *delete_at_index(dub_node *head, int index);
+```
 
 ### Delete Entire List
+
 Delete the entire list.
+
 ```c
 dub_node *delete_list(dub_node *head);
+```
 
 ## Reverse List
 
 ### Reverse List
+
 Reverse the entire list.
+
 ```c
 dub_node *reverse_list(dub_node *head);
+```
 
 ## Printing Nodes
 
 ### Print List
+
 Print the elements of the list.
+
 ```c
 void print_list(dub_node *head);
+```
 
 ## Usage
+
 The main function in the provided C code demonstrates the usage of these doubly linked list operations.
 
 Feel free to explore and modify the code based on your requirements!
-````
