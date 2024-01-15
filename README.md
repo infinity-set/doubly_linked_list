@@ -8,6 +8,8 @@ Welcome to the Doubly Linked List Operations in C repository! This C program pro
 
 - [Why Use This Script](#why-use-this-script)
 - [Prerequisites](#prerequisites)
+- [Languages and Utilities Used](#languages-and-utilities-used)
+- [Environments Used](#environments-used)
 - [Memory Management and Pointers](#memory-management-and-pointers)
 - [Adding Nodes](#adding-nodes)
 - [Deleting Nodes](#deleting-nodes)
@@ -24,6 +26,25 @@ Before using this C program, ensure that you have the following:
 
 - A C compiler installed on your system.
 - Basic understanding of C programming, including memory management concepts.
+
+## Languages and Utilities Used
+
+- **C**
+- **Visual Studio Code**
+
+[<img alt="Visual Code Icon" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscode]
+
+[vscode]: https://code.visualstudio.com/
+
+## Environments Used
+
+- **Windows**
+
+[<img align="left" alt="Microsoft Icon" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Windows_logo_-_2012_derivative.svg" />][windows]
+
+[windows]: https://www.microsoft.com/
+<br /><br />
+
 
 ## Memory Management and Pointers
 
