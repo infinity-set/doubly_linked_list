@@ -15,6 +15,7 @@ Welcome to the Doubly Linked List Operations in C repository! This C program pro
 - [Deleting Nodes](#deleting-nodes)
 - [Reverse List](#reverse-list)
 - [Printing Nodes](#printing-nodes)
+- [Usage](#usage)
 
 ## Why Use This Script
 
