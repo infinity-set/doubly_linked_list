@@ -26,6 +26,7 @@ Before using this C program, ensure that you have the following:
 
 - A C compiler installed on your system.
 - Basic understanding of C programming, including memory management concepts.
+- Review: [(Development in Progress) Singly Linked List Concepts](https://github.com/infinity-set/singly_linked_list)
 
 ## Languages and Utilities Used
 
